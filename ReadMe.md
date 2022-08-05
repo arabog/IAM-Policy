@@ -25,3 +25,11 @@ next to the bucket.
 
 ![bucketpolicy](Bucket-policy.png?raw=true "bucketpolicy")
 
+10. Click on the name of your policy.  
+11. Review the JSON for the policy you just created on the Permissions tab.  
+12. Click on the Policy usage tab to see if this policy is in use. Notice that this policy is not attached to any resources yet.  
+13. Now, you can attach this policy to any user or other AWS service.  
+
+![bucketpolicy](Summary.png?raw=true "bucketpolicy")
+
+14. Each resource in the AWS gets a unique identifier, ARN. The newly created policy will also get its ARN, such as,arn:aws:iam::572815612669:policy/BucketPolicy shown in the snapshot above.
