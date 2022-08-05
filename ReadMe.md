@@ -32,4 +32,4 @@ next to the bucket.
 
 ![bucketpolicy](Summary.png?raw=true "bucketpolicy")
 
-14. Each resource in the AWS gets a unique identifier, ARN. The newly created policy will also get its ARN, such as,arn:aws:iam::572815612669:policy/BucketPolicy shown in the snapshot above.
+14. Each resource in the AWS gets a unique identifier, ARN. The newly created policy will also get its ARN, such as, arn:aws:iam::572815612669:policy/BucketPolicy shown in the snapshot above.
