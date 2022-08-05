@@ -59,12 +59,12 @@ Change the mode of access and attach another policy to an existing user
     Attach any existing policies to the new user. AWS provides and manages a set of pre-defined standard policies.  
 2. Attach the AmazonRDSFullAccess AWS managed policy that will provide full access to AWS RDS service via the AWS web console.
 
-![AddPermissn](AddPermissn.png?raw=true "bucketpolicy")
+![AddPermissn](AddPermissn.png?raw=true "AddPermissn")
 
-![AddpermissnstoIAMUser](AddpermissnstoIAMUser.png?raw=true "bucketpolicy")
+![AddpermissnstoIAMUser](AddpermissnstoIAMUser.png?raw=true "AddpermissnstoIAMUser")
+
+![user](User.png?raw=true "user")
+
+![userpolicyupdate](userpolicyupdate.png?raw=true "userpolicyupdate")
 
 
-![userpolicyupdate](userpolicyupdate.png?raw=true "bucketpolicy")
-
-
-![user](User.png?raw=true "bucketpolicy")
